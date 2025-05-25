@@ -1,0 +1,1 @@
+import {rowID, rowElement} from './interface';
